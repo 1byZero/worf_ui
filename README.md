@@ -117,10 +117,3 @@ Copyright (c) 2023 - Present, Designed & Developed by [Amit Kumar](https://amit.
 Besides developing beautifully designed and blazing-fast themes, we help businesses create fast, performance-focused, scalable & secure websites based on NextJs, Hugo, Astro, etc.
 
 If you need a custom theme, theme customization, or complete website development services from scratch you can [Hire Us](https://worf.in/contact).
-
-
-## 🔥 More Astro Themes By Themefisher
-
-| [![Bigpsring](https://demo.gethugothemes.com/thumbnails/bigspring.png)](https://worf.in/products/bigspring-light-astro) | [![Andromeda](https://demo.gethugothemes.com/thumbnails/andromeda.png)](https://worf.in/products/andromeda-astro) | [![Bookwrom](https://demo.gethugothemes.com/thumbnails/bookworm.png)](https://worf.in/products/bookworm-astro) |
-|:---:|:---:|:---:|
-| **Bigpsring Light**| **Andromeda** | **Bookwom Light** |
