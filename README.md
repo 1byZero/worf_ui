@@ -1,5 +1,5 @@
 <h1 align=center>Worfix UI App</h1>
-<p align=center>Worfix is a free multipurpose SaaS theme built with Astro, TailwindCSS and TypeScript with 17+ pre-designed pages exclusively designed for Worf SAAS Backend.</p>
+<p align=center>Worfix is a free multipurpose SaaS theme built with Astro, TailwindCSS and TypeScript exclusively designed for Worf SAAS Backend.</p>
 <h2 align="center"><a target="_blank" href="https://pinwheel-astro.vercel.app/" rel="nofollow"> 👀 Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/analysis/https-pinwheel-astro-vercel-app/kmaxqwa7rx?form_factor=desktop"> Page Speed (95+) 🚀 </a>
 </h2>
 <p align=center>
