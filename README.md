@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/github/contributors/themefisher/bigspring-light-astro" alt="contributors"></a>
 </p>
 
-![pinwheel](https://demo.worf.in/thumbnails/pinwheel.png)
+![Worfix UI](https://demo.worf.in/thumbnails/pinwheel.png)
 
 <!-- small description -->
 
