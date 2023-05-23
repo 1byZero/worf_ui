@@ -19,7 +19,7 @@
 
   "call_to_action": {
     "title": "Helping teams in the world with focus",
-    "description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
+    "description": "At our web development and IT company, we build websites, web apps, and mobile apps for clients worldwide. We also provide digital marketing services to help you grow your business.",
     "button": {
       "label": "Claim Free Website",
       "link": "https://worf.in"
@@ -33,7 +33,7 @@
   },
 
   "params": {
-    "footer_description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
+    "footer_description": "Unlock the Power of Digital: From Software Development to Digital Marketing, We've Got You Covered.",
     "email": "help@worf.in",
     "location": "E-29, Sector 23, Sanjay Nagar, Ghaziabad, Uttar Pradesh 201002 India",
     "phone": "+9560-859-178",

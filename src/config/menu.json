@@ -66,20 +66,20 @@
 
   "footer": [
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Universional Terms of Use",
+      "url": "/terms-and-conditions"
     },
     {
-      "name": "Contact",
-      "url": "/contact"
+      "name": "Privacy Policy",
+      "url": "/privacy-policy"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Jobs",
+      "url": "/jobs"
     },
     {
-      "name": "Changelog",
-      "url": "/changelog"
+      "name": "Refund Policy",
+      "url": "/refund-policy"
     }
   ]
 }

@@ -1,47 +1,29 @@
 ---
 banner:
   title: "Scale design & dev operations with Avocode Enterprise"
-  content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
+  content: "Innovate. Create. Code. Unleashing Your Business's Digital Potential with Our Services"
   image: /images/banner-img.png
   button:
-    label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
+    label: Get In Quotes
+    link: "https://worf.in/quotation"
     enable: true
 
 ##key features
 key_features:
-  title: "The Highlighting Part Of Our Solution"
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: "Checkout Our Solutions"
+  description: Unlock the Power of Digital - From Software Development to Digital Marketing, We've Got You Covered.
   feature_list:
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
+      title: Web Development
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
+      title: Digital Marketing
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
+      title: Web Services
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
+      title: Web Security
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 #service
@@ -68,8 +50,8 @@ service:
         - Supporting more than 119 country world
         - Open transaction with more than currencies
         - Customer Service with 79 languages
-    - title: Accountability that works for you
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+    - title: Looking for a reliable and experienced team to help you with your digital needs?
+      description: Look no further than our web development and IT support services. Our team of experts is committed to providing our clients with the highest quality services to help them achieve their business goals.
       video:
         thumbnail: "/images/intro-thumbnail.png"
         video_id: "g3-VxLQO7do"
@@ -81,34 +63,34 @@ service:
 #testimonial
 testimonial:
   title: Our customers have nice things to say about us
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  description: We provide ongoing support and maintenance services to ensure that your web app is always up-to-date, secure, and performing at its best.
   testimonial_list:
-    - author: David Cameron
+    - author: Shubham Tyagi
       avatar: "/images/users/user-5.png"
       organization: meta limited
       rating: four
       content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+    - author: Abdul Jhahid
       avatar: "/images/users/user-6.png"
       organization: meta limited
       rating: four
       content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+    - author: Rohan Singh
       avatar: "/images/users/user-2.png"
       organization: meta limited
       rating: three
       content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+    - author: Ankit Gupta
       avatar: "/images/users/user-3.png"
       organization: meta limited
       rating: five
       content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+    - author: Amit Channa
       avatar: "/images/users/user-4.png"
       organization: meta limited
       rating: five
       content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+    - author: Shivam Singh
       avatar: "/images/users/user-1.png"
       organization: meta limited
       rating: three
