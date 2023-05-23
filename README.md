@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/github/contributors/themefisher/bigspring-light-astro" alt="contributors"></a>
 </p>
 
-![pinwheel](https://demo.themefisher.com/thumbnails/pinwheel.png)
+![pinwheel](https://demo.worf.in/thumbnails/pinwheel.png)
 
 <!-- small description -->
 
@@ -106,7 +106,7 @@ If your problem or idea has not been addressed yet, feel free to [open a new iss
 <!-- licence -->
 ## 📝 License
 
-Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
+Copyright (c) 2023 - Present, Designed & Developed by [Amit Kumar](https://amit.worf.in)
 
 **Code License:** Released under the [MIT](https://github.com/themefisher/pinwheel-astro/blob/main/LICENSE) license.
 
@@ -116,11 +116,11 @@ Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://them
 
 Besides developing beautifully designed and blazing-fast themes, we help businesses create fast, performance-focused, scalable & secure websites based on NextJs, Hugo, Astro, etc.
 
-If you need a custom theme, theme customization, or complete website development services from scratch you can [Hire Us](https://themefisher.com/contact).
+If you need a custom theme, theme customization, or complete website development services from scratch you can [Hire Us](https://worf.in/contact).
 
 
 ## 🔥 More Astro Themes By Themefisher
 
-| [![Bigpsring](https://demo.gethugothemes.com/thumbnails/bigspring.png)](https://themefisher.com/products/bigspring-light-astro) | [![Andromeda](https://demo.gethugothemes.com/thumbnails/andromeda.png)](https://themefisher.com/products/andromeda-astro) | [![Bookwrom](https://demo.gethugothemes.com/thumbnails/bookworm.png)](https://themefisher.com/products/bookworm-astro) |
+| [![Bigpsring](https://demo.gethugothemes.com/thumbnails/bigspring.png)](https://worf.in/products/bigspring-light-astro) | [![Andromeda](https://demo.gethugothemes.com/thumbnails/andromeda.png)](https://worf.in/products/andromeda-astro) | [![Bookwrom](https://demo.gethugothemes.com/thumbnails/bookworm.png)](https://worf.in/products/bookworm-astro) |
 |:---:|:---:|:---:|
 | **Bigpsring Light**| **Andromeda** | **Bookwom Light** |
