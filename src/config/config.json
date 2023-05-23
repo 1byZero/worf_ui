@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Pinwheel Astro",
-    "base_url": "https://pinwheel-astro.vercel.app",
+    "title": "Worf Internet Services",
+    "base_url": "https://worf.in",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -21,8 +21,8 @@
     "title": "Helping teams in the world with focus",
     "description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
     "button": {
-      "label": "Download The Theme",
-      "link": "https://themefisher.com/astro-themes/pinwheel-astro"
+      "label": "Claim Free Website",
+      "link": "https://worf.in"
     }
   },
 
@@ -34,15 +34,15 @@
 
   "params": {
     "footer_description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
-    "email": "info@andromeda.io",
-    "location": "2118 Thornridge Cir. Syracuse, Connecticut 35624",
-    "phone": "+704-555-0127",
+    "email": "help@worf.in",
+    "location": "E-29, Sector 23, Sanjay Nagar, Ghaziabad, Uttar Pradesh 201002 India",
+    "phone": "+9560-859-178",
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2023 a Powered by [Worf Internet Services Private Limited](https://worf.in)"
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "Worf Internet Services",
     "meta_image": "/images/og-image.png",
     "meta_description": "pinwheel astro"
   }
