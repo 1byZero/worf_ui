@@ -1,35 +1,42 @@
 {
   "main": [
     {
-      "name": "Home",
-      "url": "/"
-    },
-    {
       "name": "About",
       "url": "/about"
     },
+    
+    {
+      "name": "Home",
+      "url": "/"
+    },
+
     {
       "name": "Blog",
       "url": "/blog"
     },
+
     {
-      "name": "Features",
-      "url": "/features"
+      "name": "Services",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "App Development",
+          "url": "/app-development"
+        },
+        {
+          "name": "Digital Marketing",
+          "url": "/digital-marketing"
+        }
+      ]
     },
-    {
-      "name": "How It Works",
-      "url": "/how-it-works"
-    },
+    
     {
       "name": "Pages",
       "url": "",
       "hasChildren": true,
       "children": [
-        {
-          "name": "Career",
-          "url": "/career"
-        },
-
+        
         {
           "name": "Integrations",
           "url": "/integrations"
@@ -75,7 +82,7 @@
     },
     {
       "name": "Jobs",
-      "url": "/jobs"
+      "url": "/career"
     },
     {
       "name": "Refund Policy",
