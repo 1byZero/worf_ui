@@ -2,17 +2,17 @@
 title: "About"
 page_title: "About our company"
 buttons:
-  - label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
+  - label: Claim Free Website
+    link: "#"
     enable: true
-  - label: Learn More
+  - label: Get Discounted Domains
     link: "#"
     outline: true
     enable: true
 
 # counter
 counter:
-  - name: "Customers"
+  - name: "Apps Developed"
     number: 25
     messurment: M
     color: "#A3A1FB"
@@ -20,11 +20,11 @@ counter:
     number: 440
     messurment: M
     color: "#5EE2A0"
-  - name: "Customers"
+  - name: "Developers"
     number: 50
     messurment: K
     color: "#FE6019"
-  - name: "Customers"
+  - name: "Themes Designed"
     number: 20
     messurment: K
     color: "#FEC163"
