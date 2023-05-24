@@ -2,7 +2,7 @@ import { FrappeApp } from "frappe-js-sdk";
 
 async function createExpense() {
   try {
-    const SITE_URL = "https://ui.local";
+    const SITE_URL = "https://ui.local:8000";
     const API_KEY = "321ba36f45fd2f0";
     const API_SECRET = "6c5684d41a0ab0a";
 
