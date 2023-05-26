@@ -41,46 +41,46 @@ gallery:
 features:
   title: The six core work <br /> drive everything do
   button:
-    label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
+    label: Claim Free Website
+    link: "#"
     enable: true
   features_list:
-    - title: Accessibility
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Empowerement
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Excellence
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
+    - title: Tech Wizards Unite
+      content: Unlock the Power of Our Multidisciplinary Team for Web Development, Software Solutions, Digital Marketing, and Ironclad Security.
+    - title: Client Crafted Excellence
+      content: Immerse Yourself in Exceptional Quality and Pixel-Perfect Precision for Seamless User Experiences That Leave a Lasting Impression.
+    - title: Future-Proof Your Business
+      content: Embrace Innovation with Tailor-Made Solutions, Infused with the Latest Tech Trends, for a Digital Advantage That Sets You Apart.
+    - title: Time is Your Ally
+      content: Experience Speed and Reliability as We Deliver Projects with Precision, Never Compromising on Quality or Cutting Corners.
+    - title: Our Obsession
+      content: Collaborate with a Client-Centric Dream Team, Fueling Your Vision with Transparent Communication and Creative Insights.
+    - title: Fort Knox for Your Data
+      content: Trust Our Fortified Security Fortress, Safeguarding Your Confidentiality with Ironclad Measures to Ensure Peace of Mind.
     
 
 ## members
 members:
   title: This is who we are
-  description: Donec sollicitudin molestie malesda. Donec sollitudin mol estie ultricies ligula sed magna dictum
+  description: Unleashing Tech Titans- Meet Our Elite Team of IT Superheroes
   member_list:
-    - name: Eleanor Pena
-      field: Co-founder & COO
+    - name: Amit Kumar
+      field: Co-founder & CEO
       image: "/images/users/user-1.png"
-    - name: Bukiakta Bansalo
-      field: Product Manager
+    - name: Anil Sharma
+      field: Co-founder & President
       image: "/images/users/user-2.png"
-    - name: Ortrin Okaster
-      field: Software Engineer
+    - name: Vishwendra Singh
+      field: Campaign Manager
       image: "/images/users/user-3.png"
-    - name: Eleanor Pena
-      field: Co-founder & COO
-      image: "/images/users/user-1.png"
-    - name: Bukiakta Bansalo
+    - name: Ankit Singh
       field: Product Manager
+      image: "/images/users/user-1.png"
+    - name: Amit Yadav
+      field: SEO Expert
       image: "/images/users/user-2.png"
-    - name: Ortrin Okaster
-      field: Software Engineer
+    - name: Mahesh Gaur
+      field: Digital Marketing Expert
       image: "/images/users/user-3.png"
 ---
-Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed magna dictum porta. Lorem
+Embarking on a Journey of Innovation: Unleashing the Potential of Technology to Shape the Future of Your Business at Worf.
